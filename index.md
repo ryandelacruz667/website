@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## COLLEGE OF FORESTRY AND ENVIRONMENTAL MANAGEMENTT
 
 You can use the [editor on GitHub](https://github.com/ryandelacruz667/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
